@@ -1,0 +1,9 @@
+{
+  "name": "06UnitTesting",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "latest",
+    "jquery": "^3.3.1",
+    "jsdom-global": "^3.0.2"
+  }
+}

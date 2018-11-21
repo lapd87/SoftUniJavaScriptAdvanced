@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37b9f49f-6000-41db-b1fd-7a03e9b1ac0f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="331212881">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="10" />
+          <entry key="js" value="78" />
+          <entry key="json" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="10" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="4119" />
+          <entry key="json" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="4119" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_006RGBToHex/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_005CheckForSymmetry/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_004SumOfNumbers/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_04MathEnforcer/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2058">
+              <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_003DeckOfCards/_003DeckOfCards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-104">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_007AddSubtract/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moch</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_001SubSum/_001SubSum.js" />
+        <option value="$PROJECT_DIR$/_002PlayingCards/_002PlayingCards.js" />
+        <option value="$PROJECT_DIR$/_003DeckOfCards/_003DeckOfCards.js" />
+        <option value="$PROJECT_DIR$/_004SumOfNumbers/_004SumOfNumbers.js" />
+        <option value="$PROJECT_DIR$/_004SumOfNumbers/rgb-to-hex.js" />
+        <option value="$PROJECT_DIR$/_004SumOfNumbers/sum.js" />
+        <option value="$PROJECT_DIR$/_004SumOfNumbers/package.json" />
+        <option value="$PROJECT_DIR$/_004SumOfNumbers/test.js" />
+        <option value="$PROJECT_DIR$/_005CheckForSymmetry/isSymmetric.js" />
+        <option value="$PROJECT_DIR$/_005CheckForSymmetry/test.js" />
+        <option value="$PROJECT_DIR$/_006RGBToHex/rgb-to-hex.js" />
+        <option value="$PROJECT_DIR$/_006RGBToHex/test.js" />
+        <option value="$PROJECT_DIR$/_007AddSubtract/createCalculator.js" />
+        <option value="$PROJECT_DIR$/_01RequestValidator/_01RequestValidator.js" />
+        <option value="$PROJECT_DIR$/_02EvenOrOdd/isOdd.js" />
+        <option value="$PROJECT_DIR$/_007AddSubtract/test.js" />
+        <option value="$PROJECT_DIR$/_02EvenOrOdd/test.js" />
+        <option value="$PROJECT_DIR$/_03CharLookup/lookupChar.js" />
+        <option value="$PROJECT_DIR$/_03CharLookup/test.js" />
+        <option value="$PROJECT_DIR$/_04MathEnforcer/mathEnforcer.js" />
+        <option value="$PROJECT_DIR$/_04MathEnforcer/test.js" />
+        <option value="$PROJECT_DIR$/_05SharedObject/shared-object.js" />
+        <option value="$PROJECT_DIR$/_06ArmageDOM/armagedom.js" />
+        <option value="$PROJECT_DIR$/_06ArmageDOM/armagedom.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/_05SharedObject/shared-object.html" />
+        <option value="$PROJECT_DIR$/_05SharedObject/test.js" />
+        <option value="$PROJECT_DIR$/_06ArmageDOM/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AngularJS</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>EJS</id>
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_01RequestValidator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_001SubSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_02EvenOrOdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_002PlayingCards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_03CharLookup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_003DeckOfCards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_04MathEnforcer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_004SumOfNumbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_05SharedObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_005CheckForSymmetry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_06ArmageDOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_006RGBToHex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_007AddSubtract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs/npm.cmd" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting\_06ArmageDOM" />
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting\_05SharedObject" />
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting\_04MathEnforcer" />
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting\_03CharLookup" />
+      <recent name="C:\VBprojects\JSAdvanced10.2018\06UnitTesting\_02EvenOrOdd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha._06ArmageDOM\test.js">
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_004SumOfNumbers">
+      <method v="2" />
+    </configuration>
+    <configuration name="_06ArmageDOM\test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/_06ArmageDOM/test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="mochaTest" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>C:/Program Files/nodejs/node_modules/npm/lib/npm.js</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>true</recursive>
+      <method v="2" />
+    </configuration>
+    <configuration name="test nuke func" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/_06ArmageDOM/test.js</test-file>
+      <test-names>
+        <name value="test nuke func" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test nuke func.test nuke correct remove" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/_06ArmageDOM/test.js</test-file>
+      <test-names>
+        <name value="test nuke func" />
+        <name value="test nuke correct remove" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test sharedObject obj (1)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/_06ArmageDOM/test.js</test-file>
+      <test-names>
+        <name value="test sharedObject obj" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test sharedObject obj.selectors should not be the same" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_06ArmageDOM/test.js</test-file>
+      <test-names>
+        <name value="test sharedObject obj" />
+        <name value="selectors should not be the same" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.mochaTest" />
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Mocha.test sharedObject obj.selectors should not be the same" />
+      <item itemvalue="Mocha.test sharedObject obj (1)" />
+      <item itemvalue="Mocha._06ArmageDOM\test.js" />
+      <item itemvalue="Mocha.test nuke func.test nuke correct remove" />
+      <item itemvalue="Mocha.test nuke func" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha._06ArmageDOM\test.js" />
+        <item itemvalue="Mocha.test nuke func" />
+        <item itemvalue="Mocha.test nuke func.test nuke correct remove" />
+        <item itemvalue="Mocha.test sharedObject obj (1)" />
+        <item itemvalue="Mocha.test sharedObject obj.selectors should not be the same" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b9f49f-6000-41db-b1fd-7a03e9b1ac0f" name="Default Changelist" comment="" />
+      <created>1541141378709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541141378709</updated>
+      <workItem from="1541141379884" duration="20439000" />
+      <workItem from="1541324557159" duration="8474000" />
+      <workItem from="1541406807824" duration="22000" />
+      <workItem from="1541754532162" duration="75000" />
+      <workItem from="1542028596323" duration="806000" />
+      <workItem from="1542047201774" duration="37000" />
+      <workItem from="1542047268952" duration="12000" />
+      <workItem from="1542265342841" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_nuke_func - 2018.11.04 at 13h 59m 00s.xml">
+      <configuration name="test nuke func" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 13h 59m 05s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 03m 46s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 04m 58s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 06m 04s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_nuke_func - 2018.11.04 at 14h 08m 21s.xml">
+      <configuration name="test nuke func" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 08m 41s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 09m 32s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 09m 59s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_06ArmageDOM_test_js - 2018.11.04 at 14h 10m 08s.xml">
+      <configuration name="_06ArmageDOM\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3398773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32883435" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32883435" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_001SubSum/_001SubSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002PlayingCards/_002PlayingCards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_004SumOfNumbers/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_005CheckForSymmetry/isSymmetric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="9" selection-start-line="7" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_007AddSubtract/createCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01RequestValidator/_01RequestValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_006RGBToHex/rgb-to-hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="12" selection-start-line="13" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02EvenOrOdd/isOdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="10" selection-start-line="11" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03CharLookup/lookupChar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="11" selection-start-line="11" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04MathEnforcer/mathEnforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="21" column="12" selection-start-line="21" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05SharedObject/shared-object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06ArmageDOM/armagedom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06ArmageDOM/armagedom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="312" column="4" selection-start-line="312" selection-start-column="4" selection-end-line="312" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05SharedObject/shared-object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06ArmageDOM/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1634">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05SharedObject/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03CharLookup/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02EvenOrOdd/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_005CheckForSymmetry/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_004SumOfNumbers/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04MathEnforcer/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2058">
+          <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_003DeckOfCards/_003DeckOfCards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_007AddSubtract/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_006RGBToHex/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
